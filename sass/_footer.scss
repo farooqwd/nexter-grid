@@ -22,8 +22,8 @@
 
     &__link:hover,
     &__link:active {
-        background-color: #fff;
-        color: $color-secondary;
+        background-color: rgba($color-grey-light-2, .5);
+        color: #fff;
         transform: translateY(-5px);
     }
 }
